@@ -1,6 +1,6 @@
 import { Component, OnInit, trigger, state, style, transition, animate } from '@angular/core';
 import { Imagem } from './imagem.model'
-import { setTimeout } from 'timers';
+
 
 
 @Component({
